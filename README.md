@@ -1,2 +1,3 @@
-# votingtally_gutenberg
-Voting Tally Plugin with Gutenberg Block
+# Voting Tally
+
+Please visit <a href="https://wpandajax.com">WordPress and Ajax</a>
