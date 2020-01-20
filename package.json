@@ -4,7 +4,9 @@
   "description": "A WordPress plugin that allows voting on posts.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "cgb-scripts start",
+    "build": "cgb-scripts build",
+    "eject": "cgb-scripts eject"
   },
   "repository": {
     "type": "git",
