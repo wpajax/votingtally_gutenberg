@@ -88,6 +88,12 @@ class Voting_Tally {
 
 		// Register Shortcode.
 		new VotingTally\Includes\Shortcode();
+
+		// Register the Popular Posts block.
+		new VotingTally\Blocks\Popular_Posts();
+
+		// Register the Block Enqueuing.
+		new VotingTally\Blocks\Enqueue();
 	}
 }
 Voting_Tally::get_instance();
