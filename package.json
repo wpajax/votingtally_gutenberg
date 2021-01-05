@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/wpajax/votingtally_gutenberg#readme",
   "devDependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "cgb-scripts": "^1.22.0"
   }
 }
